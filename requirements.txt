@@ -2,3 +2,6 @@ streamlit
 pandas
 numpy
 xlsxwriter
+st-gsheets-connection
+streamlit-oauth
+requests
